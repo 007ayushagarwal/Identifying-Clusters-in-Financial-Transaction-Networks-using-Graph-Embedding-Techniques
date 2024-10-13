@@ -9,7 +9,7 @@ The dataset consists of financial transactions between entities, where each tran
 - **Receiver**: The entity receiving the transaction.
 - **Amount**: The monetary value of the transaction.
 
-This dataset is represented as a graph where nodes correspond to entities, and directed edges correspond to the transactions between them.
+The dataset is provided in a CSV file named `payments.csv`. This dataset is represented as a graph where nodes correspond to entities, and directed edges correspond to the transactions between them.
 
 ## Algorithms Applied
 ### 1. Node2Vec
